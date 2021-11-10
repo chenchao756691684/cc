@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mall-datasource-mysql" />
+        <module name="mall-common-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cc" target="1.8" />
+      <module name="cloud-mall-common" target="1.8" />
+      <module name="cloud-mall-goods" target="1.8" />
+      <module name="mall-common-provider" target="1.8" />
+      <module name="mall-datasource-mysql" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="mall-common-provider" options="-parameters" />
+      <module name="mall-datasource-mysql" options="-parameters" />
+    </option>
+  </component>
+</project>

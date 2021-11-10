@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: cn.com.wdtrgf.cloud:cloud-common:0.7.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/com/wdtrgf/cloud/cloud-common/0.7.2/cloud-common-0.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/com/wdtrgf/cloud/cloud-common/0.7.2/cloud-common-0.7.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/com/wdtrgf/cloud/cloud-common/0.7.2/cloud-common-0.7.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
